@@ -855,68 +855,68 @@
 "id" : 96,
 "name" : "Zimbabwe"
 },
-  {
-      "id": 1,
+{
+     
       "id_country": 3,
       "estate": "Azerbaijan"
     },
     {
-      "id": 2,
+     
       "id_country": 3,
       "estate": "Nargorni Karabakh"
     },
     {
-      "id": 3,
+    
       "id_country": 3,
       "estate": "Nakhichevanskaya Region"
     },
     {
-      "id": 4,
+   
       "id_country": 4,
       "estate": "Anguilla"
     },
     {
-      "id": 5,
+     
       "id_country": 7,
       "estate": "Brestskaya obl."
     },
     {
-      "id": 6,
+    
       "id_country": 7,
       "estate": "Vitebskaya obl."
     },
     {
-      "id": 7,
+     
       "id_country": 7,
       "estate": "Gomelskaya obl."
     },
     {
-      "id": 8,
+     
       "id_country": 7,
       "estate": "Grodnenskaya obl."
     },
     {
-      "id": 9,
+     
       "id_country": 7,
       "estate": "Minskaya obl."
     },
     {
-      "id": 10,
+    
       "id_country": 7,
       "estate": "Mogilevskaya obl."
     },
     {
-      "id": 11,
+     
       "id_country": 8,
       "estate": "Belize"
     },
     {
-      "id": 12,
+     
       "id_country": 10,
       "estate": "Hamilton"
     },
     {
-      "id": 13,
+   
       "id_country": 15,
       "estate": "Dong Bang Song Cuu Long"
     },
